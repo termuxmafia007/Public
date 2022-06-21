@@ -17,7 +17,7 @@ $ pip2 install bs4
 
 $ rm-rf termuxmafia007
 
-$ git clone https://github.com/termuxmafia007/facebook-id-hack-without-login.git
+$ git clone https://github.com/termuxmafia007
 
 $ cd termuxmafia007
 
