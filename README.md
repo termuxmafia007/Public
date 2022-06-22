@@ -19,6 +19,6 @@ $ rm-rf termuxmafia007
 
 $ git clone https://github.com/termuxmafia007/facebook-id-hack-without-login.git
 
-$ cd termuxmafia007
+$ cd facebook-id-hack-without-login
 
-$ python termuxmafia007.py
+$ python facebook-id-hack-without-login.py
