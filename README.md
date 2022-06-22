@@ -17,7 +17,7 @@ $ pip2 install bs4
 
 $ rm-rf termuxmafia007
 
-$ git clone https://github.com/termuxmafia007
+$ git clone https://github.com/termuxmafia007/termuxmafia.git
 
 $ cd termuxmafia007
 
