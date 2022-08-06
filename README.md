@@ -22,9 +22,9 @@
 - `pip install bs4`
 - `rm -rf Random`
 - `rm -rf Public`
-- `git clone https://github.com/termuxmafia007/termuxmafia.git `
-- `cd termuxmafia`
-- `python termuxmafia.py`
+- `git clone https://github.com/AKING110/Public.git `
+- `cd Public`
+- `python AKING.py`
 
 
 
