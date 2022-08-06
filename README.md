@@ -1,24 +1,50 @@
-# termuxmafia007
-Facebook id hack in termux without login
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Your.old.father.luQm4N0)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
 
-$ pkg update
 
-$ pkg upgrade
 
-$ pkg install python 
+<h1 align="center"> [MR.AKING]</h1>
 
-$ pkg install python2 
+<h2 align="center">  FB RABDOM CLONING TOOL FREE</h2>
 
-$ pip2 install requests
 
-$ pip2 install mechanize
+## <b>installation</b>
 
-$ pip2 install bs4
+🔰 _CLONE RANDOM OK IDZ_ 🔰
 
-$ rm-rf termuxmafia007
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pkg install python2`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install lolcat`
+- `pip install bs4`
+- `rm -rf Random`
+- `rm -rf Public`
+- `git clone https://github.com/AKING110/Public.git`
+- `cd Public`
+- `python AKING.py`
 
-$ git clone https://github.com/termuxmafia007/facebook-id-hack-without-login.git
 
-$ cd facebook-id-hack-without-login
 
-$ python facebook-id-hack-without-login.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
