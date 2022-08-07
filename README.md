@@ -24,7 +24,7 @@
 - `rm -rf Public`
 - `git clone https://github.com/termuxmafia007/Public.git`
 - `cd Public`
-- `python AKING.py`
+- `python ALONE.py`
 
 
 
