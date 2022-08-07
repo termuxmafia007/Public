@@ -4,13 +4,10 @@ def clear():
 def banner():
 	clear()
 	print("""
-\033[1;37m    ###    ##    ## #### ##    ##  ######
-   ## ##   ##   ##   ##  ###   ## ##    ##    
-  ##   ##  ##  ##    ##  ####  ## ##  
- ##     ## #####     ##  ## ## ## ##   ####
- ######### ##  ##    ##  ##  #### ##    ## 
- ##     ## ##   ##   ##  ##   ### ##    ##  
- ##     ## ##    ## #### ##    ##  ######
+\033[1;37m  ########    ##    ##
+               #        # #  # #
+	       #        #  #   #
+	       #   #    #      #  #
 (!)========================================
 (!) Author   : Vahid Saiyad
 (!) Guthub   : termuxmafia007
@@ -22,6 +19,6 @@ def Update():
     print("\n\x1b[1;92m Updating Soon :-/")
     print(' Please Wait For Update 😊 ')
     print(' Join Over Facebook Group')
-    os.system('xdg-open https://www.facebook.com/groups/351076900316263/?ref=share');time.sleep(3)
+    os.system('xdg-open https://www.facebook.com/groups/396673281944454/?ref=share');time.sleep(3)
     input('')
 Update()
