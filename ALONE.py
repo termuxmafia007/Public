@@ -25,9 +25,9 @@ def Run():
 	Aking = input('[•] Choose : ')
 	if Aking =='1':
 		if bit =='32bit':
-			import dz.cpython-310
+			import dz.cpython-310 
 		elif bit =='64bit':
-			import dz.cpython-310
+			import dz.cpython-310 
 	elif Aking =='2':
 		if bit =='32bit':
 			import dz.cpython-310
