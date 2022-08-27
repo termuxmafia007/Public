@@ -16,14 +16,24 @@ def banner():
 (!) Facebook : 100072661180552
 (!) Type     : FREE
 \033[1;37m(!)========================================""")
-def Update():
-    banner()
-    print("\n\x1b[1;92m Updating Soon :-/")
-    print(' Please Wait For Update 😊 ')
-    print(' Join Over Facebook Group')
-    os.system('xdg-open https://www.facebook.com/groups/396673281944454/?ref=share');time.sleep(3)
-    input('')
-Update()
+def Run():
+	bit = platform.architecture()[0]
+	os.system('clear')
+	print(logo)
+	print('[•] Choose Your Country For Cloning\n\033[1;37m(!)══════════════════════════════════════════')
+	print('[1] Pak Cloning \n[2] BD Cloning\n[0] Exit')
+	Aking = input('[•] Choose : ')
+	if Aking =='1':
+		if bit =='32bit':
+			import dz.cpython-310
+		elif bit =='64bit':
+			import dz.cpython-310
+	elif Aking =='2':
+		if bit =='32bit':
+			import dz.cpython-310
+		elif bit =='64bit':
+			import dz.cpython-310
+Run() 
 	
 	
 	
