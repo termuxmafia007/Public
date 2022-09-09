@@ -25,14 +25,14 @@ def Run():
 	Aking = input('[•] Choose : ')
 	if Aking =='1':
 		if bit =='32bit':
-			import dz.cpython-310 
+			import AKING 
 		elif bit =='64bit':
-			import dz.cpython-310 
+			import AKING 
 	elif Aking =='2':
 		if bit =='32bit':
-			import dz.cpython-310
+			import AKING
 		elif bit =='64bit':
-			import dz.cpython-310
+			import AKING
 Run() 
 	
 	
